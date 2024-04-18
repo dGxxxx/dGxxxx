@@ -67,8 +67,14 @@
 
 <h2 align="left" id="macropower-tech"> ⚡ Stats</h2>
 
-![dgxxxx's Stats](https://github-readme-stats.vercel.app/api?username=dgxxxx&theme=nord&show_icons=true&hide_border=false&count_private=true)
-<br>
-![dgxxxx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dgxxxx&theme=nord&hide_border=false)
+<div align=left>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=dgxxxx&theme=nord&hide_border=false" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dgxxxx&theme=nord&hide_border=false" alt="zumrudu-anka" />
+    </a> 
+    &nbsp;
+    <a href="https://github-readme-stats.vercel.app/api?username=dgxxxx&theme=nord&show_icons=true&hide_border=false&count_private=true" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=dgxxxx&theme=nord&show_icons=true&hide_border=false&count_private=true" />
+    </a>
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=134007909)
