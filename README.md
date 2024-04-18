@@ -15,10 +15,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
+    &nbsp;
+        <a href="#macropower-tech">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        </a>
+        <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
