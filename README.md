@@ -14,54 +14,47 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-    &nbsp;
+    <td align="center" width="96" height="96>
+        <br>
         <a href="#macropower-tech">
             <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         </a>
-        <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       </a>
-      <br>C#
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       </a>
-      <br>.NET
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       </a>
-      <br>Vue
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MySQL
+      <br>
     </td>
   </tr>
 </table>
